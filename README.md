@@ -2,7 +2,7 @@
 - 👀 I’m interested in exploring new things 
 - 🌱 I’m currently learning css & c#.
 - 💞️ I’m looking to collaborate with different peoples form different backgrounds. 
-- 📫 Well you can reach me by my profile or you can even mail me : coderbusiness7709@gmail.com
+- 📫 Well you can reach me by my profile or you can even mail me :nadafaraha7@gmail.com
 - Thank you.
 <!---
 farahan-nadaf/farahan-nadaf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
